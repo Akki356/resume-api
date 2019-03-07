@@ -1,0 +1,25 @@
+{
+  "name": "akshayshipurkar",
+  "version": "1.0.0",
+  "description": "resume api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000 -R spec --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akki356/resume-api.git"
+  },
+  "keywords": [
+    "akshay",
+    "shipurkar",
+    "resume",
+    "api"
+  ],
+  "author": "Akshay Shipurkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akki356/resume-api/issues"
+  },
+  "homepage": "https://github.com/Akki356/resume-api#readme"
+}
